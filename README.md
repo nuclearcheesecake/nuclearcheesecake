@@ -1,11 +1,11 @@
-## Fields of Interest
-# Statistics
+# Fields of Interest
+## Statistics
 1. [Galton Board simulation](https://github.com/nuclearcheesecake/galton-board)
 
-# Mathematics
+## Mathematics
 1. [Numerical Analysis in SAS](https://github.com/nuclearcheesecake/numerical-analysis-in-sas)
 
-# General programming
+## General programming
 
 
 
