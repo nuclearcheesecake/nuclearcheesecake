@@ -1,4 +1,16 @@
-### Hi there 👋
+## Fields of Interest
+# Statistics
+1. [Galton Board simulation](https://github.com/nuclearcheesecake/galton-board)
+
+# Mathematics
+1. [Numerical Analysis in SAS](https://github.com/nuclearcheesecake/numerical-analysis-in-sas)
+
+# General programming
+
+
+
+
+
 
 <!--
 **nuclearcheesecake/nuclearcheesecake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
