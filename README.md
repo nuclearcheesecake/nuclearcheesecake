@@ -9,6 +9,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearcheesecake)](https://github.com/nuclearcheesecake/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nuclearcheesecake)
 
 
 
