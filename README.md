@@ -1,4 +1,6 @@
-## Fields of Interest
+## Projects within my fields
+Here are some of my fields of interest, and my repositories of code relating to them:
+
 **Statistics**
 1. [Galton Board simulation](https://github.com/nuclearcheesecake/galton-board)
 
@@ -7,6 +9,7 @@
 
 **Programming**
 
+## My GitHub Habits
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearcheesecake)](https://github.com/nuclearcheesecake/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nuclearcheesecake)
