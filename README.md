@@ -1,4 +1,4 @@
-## Projects within my fields
+## My projects
 Here are some of my fields of interest, and my repositories of code relating to them:
 
 **Statistics**
@@ -9,7 +9,7 @@ Here are some of my fields of interest, and my repositories of code relating to 
 
 **Programming**
 
-## My GitHub Habits
+## My GitHub habits
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearcheesecake)](https://github.com/nuclearcheesecake/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nuclearcheesecake)
