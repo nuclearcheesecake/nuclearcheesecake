@@ -2,11 +2,11 @@
 Here are some of my fields of interest, and my repositories of code relating to them:
 
 **Business Analytics and Data Mining**
-* Google Data Analytics capstone case study (all 3 tracks)
+* [Google Data Analytics capstone case study (all 3 tracks)]()
 
 **Statistics and Mathematics**
-1. [Galton Board simulation](https://github.com/nuclearcheesecake/galton-board)
-2. [Numerical Analysis in SAS](https://github.com/nuclearcheesecake/numerical-analysis-in-sas)
+* [Galton Board simulation](https://github.com/nuclearcheesecake/galton-board)
+* [Numerical Analysis in SAS](https://github.com/nuclearcheesecake/numerical-analysis-in-sas)
 
 **Programming**
 
