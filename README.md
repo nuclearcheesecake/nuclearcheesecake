@@ -2,7 +2,7 @@
 Here are some of my fields of interest, and my repositories of code relating to them:
 
 **Business Analytics and Data Mining**
-* [Google Data Analytics Certificate capstone (case studies for all 3 suggested tracks)](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021)
+* [Capstone case study for the Google Data Analytics Certificate (all 3 tracks)](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021)
 
 **Statistics and Mathematics**
 * [Galton Board simulation](https://github.com/nuclearcheesecake/galton-board)
