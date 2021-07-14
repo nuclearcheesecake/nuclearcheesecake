@@ -5,7 +5,6 @@ Here are some of my fields of interest, and my repositories of code relating to 
 * [Capstone case studies for the Google Data Analytics Certificate](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021)
   - [Case Study 1 - Developing a new marketing strategy to increase influx of annual memberships at a bike-sharing company](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case1)
   - [Case Study 2 - Guide a marketing strategy based on how users interact with fitness smart devices](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case2)
-  - [Case Study 3 - My own case study](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case3)
 
 **Statistics and Mathematics**
 * [Galton Board simulation](https://github.com/nuclearcheesecake/galton-board)
