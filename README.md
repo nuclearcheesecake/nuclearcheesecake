@@ -3,16 +3,16 @@ Here are some of my fields of interest, and my repositories of code relating to 
 
 **Business Analytics and Data Mining**
 * [Capstone case studies for the Google Data Analytics Certificate](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021)
-  - [Case Study 1 - Developing a new marketing strategy to increase influx of annual memberships at a bike-sharing company (using **Microsoft Excel**, **R** and **Tableau**)](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case1)
-  - [Case Study 2 - Guide a marketing strategy based on how users interact with fitness smart devices (using **Oracle SQL Developer** and **Tableau**)](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case2)
+  - [Case Study 1 - Developing a new marketing strategy to increase influx of annual memberships at a bike-sharing company (using Microsoft Excel, R and Tableau)](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case1)
+  - [Case Study 2 - Guide a marketing strategy based on how users interact with fitness smart devices (using Oracle SQL Developer and Tableau)](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case2)
 
 **Statistics and Mathematics**
-* [Galton Board simulation (**in C++**)](https://github.com/nuclearcheesecake/galton-board)
-* [Numerical Analysis in **SA**S](https://github.com/nuclearcheesecake/numerical-analysis-in-sas)
+* [Galton Board simulation (in C++)](https://github.com/nuclearcheesecake/galton-board)
+* [Numerical Analysis in SAS](https://github.com/nuclearcheesecake/numerical-analysis-in-sas)
 
 **Programming**
 
-* [Creating a database for *Dunder Mifflin* using **Oracle SQL Developer** (university project + a bit of fun)](https://github.com/nuclearcheesecake/DMDB)
+* [Creating a database for *Dunder Mifflin* using Oracle SQL Developer (university project + a bit of fun)](https://github.com/nuclearcheesecake/DMDB)
 
 ## My GitHub habits
 
