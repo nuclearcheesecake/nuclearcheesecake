@@ -6,6 +6,7 @@ Here are some of my fields of interest, and my repositories of code relating to 
   - [Case Study 1 - Developing a new marketing strategy to increase influx of annual memberships at a bike-sharing company (using Microsoft Excel, R and Tableau)](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case1)
   - [Case Study 2 - Guide a marketing strategy based on how users interact with fitness smart devices (using Oracle SQL Developer and Tableau) ⏳](https://github.com/nuclearcheesecake/wickusgoogledataanalyticscertificate2021/blob/main/README.md#case2)
 * [Predicting health insurance costs using linear regression (linear algebra approach + R) ⏳](https://github.com/nuclearcheesecake/insuranceregression)
+* [Using logistic regression to identify fraud in banking (classification analysis in R) ⏳](https://github.com/nuclearcheesecake/fraudlogisticregression)
 
 **Statistics and Mathematics**
 * [Galton Board simulation (in C++)](https://github.com/nuclearcheesecake/galton-board)
