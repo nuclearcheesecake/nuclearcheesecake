@@ -15,6 +15,7 @@ Here are some of my fields of interest, and my repositories of code relating to 
 **Programming**
 
 * [Creating a database for *Dunder Mifflin* using Oracle SQL Developer (university project + a bit of fun)](https://github.com/nuclearcheesecake/DMDB)
+* [Building LAMP stacks (web server technology)](https://github.com/nuclearcheesecake/lampstacks)
 
 ## My GitHub habits
 
