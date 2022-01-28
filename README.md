@@ -19,7 +19,7 @@ Here are some of my fields of interest, and my repositories of code relating to 
 
 ## My GitHub habits
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearcheesecake?exclude_repo=nuclearcheesecake.github.io)](https://github.com/nuclearcheesecake/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearcheesecake&exclude_repo=nuclearcheesecake.github.io)](https://github.com/nuclearcheesecake/github-readme-stats)
 
 
 
