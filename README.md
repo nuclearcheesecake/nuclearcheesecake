@@ -17,13 +17,14 @@ Here are some of my fields of interest, and my repositories of code relating to 
 * [Creating a database for *Dunder Mifflin* using Oracle SQL Developer (university project + a bit of fun)](https://github.com/nuclearcheesecake/DMDB)
 * [Building LAMP stacks (web server technology)](https://github.com/nuclearcheesecake/lampstacks)
 
+<!--
 ## My GitHub habits
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearcheesecake&exclude_repo=nuclearcheesecake.github.io&hide=html&layout=compact)](https://github.com/nuclearcheesecake/github-readme-stats)
 
 
 
-<!--
+
 **nuclearcheesecake/nuclearcheesecake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
