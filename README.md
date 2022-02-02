@@ -11,7 +11,7 @@ Here are some of my fields of interest, and my repositories of code relating to 
 **Statistics and Mathematics**
 * [Galton Board simulation (in C++)](https://github.com/nuclearcheesecake/galton-board)
 * [Numerical Analysis in SAS ⏳](https://github.com/nuclearcheesecake/numerical-analysis-in-sas)
-* [FISCAL 2.0 (UX-driven actuarial calculator built using C#)](https://github.com/nuclearcheesecake/fiscal2.0)
+* [FISCAL 2.0 - UX-driven actuarial calculator built using C#](https://github.com/nuclearcheesecake/fiscal2.0)
 
 **Programming**
 
