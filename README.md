@@ -11,11 +11,12 @@ Here are some of my fields of interest, and my repositories of code relating to 
 **Statistics and Mathematics**
 * [Galton Board simulation (in C++)](https://github.com/nuclearcheesecake/galton-board)
 * [Numerical Analysis in SAS ⏳](https://github.com/nuclearcheesecake/numerical-analysis-in-sas)
+* [Galton Board simulation (in C++)](https://github.com/nuclearcheesecake/galton-board)
 
 **Programming**
 
 * [Creating a database for *Dunder Mifflin* using Oracle SQL Developer (university project + a bit of fun)](https://github.com/nuclearcheesecake/DMDB)
-* [Building LAMP stacks (web server technology)](https://github.com/nuclearcheesecake/lampstacks)
+* [FISCAL 2.0 - Actuarial calculator developed using C#](https://github.com/nuclearcheesecake/fiscal2.0)
 
 <!--
 ## My GitHub habits
