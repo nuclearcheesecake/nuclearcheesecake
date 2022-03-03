@@ -18,6 +18,7 @@ Here are some of my fields of interest, and my repositories of code relating to 
 * [Fire Damage Assessment System (Oracle PL/SQL and Microsoft Power BI)](https://github.com/nuclearcheesecake/fdas)
 * [Creating a database for *Dunder Mifflin* using Oracle SQL Developer (university project + a bit of fun)](https://github.com/nuclearcheesecake/DMDB)
 * [Building LAMP stacks (web server technology)](https://github.com/nuclearcheesecake/lampstacks)
+* [Frontend credit card validator in HTML, CSS and JavaScript)](https://github.com/nuclearcheesecake/creditcardvalidatorweb)
 
 <!--
 ## My GitHub habits
